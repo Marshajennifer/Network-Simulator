@@ -30,3 +30,11 @@ For that in terminal type:
   nam filename.nam{in my case nam marsha.nam}
   
 Now we can see the network formed and by clicking on the play button we can see the traffic.
+
+Here I have attached 2 images of traffic flow 0to3cbr.png and both0to3and2to5.png.
+
+0to3cbr.png represents the traffic flow between nodes 0 and 3 starting at time 1.0 s
+
+both0to3and2to5.png represents the traffic flow between nodes 2 and 5 starting at time 2.0 s together with traffic flow between nodes 0 and 3 starting at time 1.0 s
+
+And the flow stops at 10 s.
