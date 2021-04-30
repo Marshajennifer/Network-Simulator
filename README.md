@@ -1,4 +1,4 @@
-# Network-Simulator
+# Network-Simulator with 6 nodes
 NS2 programs are generally written using two major languages i.e C++ and TCL. NS2 supports both the types of Network i.e. wired and wireless networks. In wired networks, nodes use wired channel where as in wireless channel, node transmission takes place through wireless channels. Major aspect of any simulation is the creation of Nodes and topology. I have focused here on all the types of topology and its respective codes to get an idea about NS2 simulation. It’s just a one way of teaching to make you know few basics of NS2.
 
 Image of the network that we want to design is given with filename img.png
